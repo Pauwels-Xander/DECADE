@@ -103,5 +103,3 @@ All attack and defense dynamics are abstract probabilistic processes intended fo
 
 ## License
 MIT License
-
-**Conclusion:** DECADE provides a controlled and extensible framework for studying adversarial cascade dynamics and resilience in dependency ecosystems without modeling real world exploits.
