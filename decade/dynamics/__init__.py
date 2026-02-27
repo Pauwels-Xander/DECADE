@@ -1,0 +1,1 @@
+"""Simple, interpretable infection dynamics."""
